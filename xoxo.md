@@ -1,4 +1,5 @@
 ---
+permalink: /shit/
 title: Snes9xVITA
 author: skogaby
 site: https://github.com/frangarcj/Snes9xVITA/releases/latest
