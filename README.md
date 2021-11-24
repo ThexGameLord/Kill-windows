@@ -7,4 +7,4 @@
 | Version | Released           | Tested on     |
 | ------- | ------------------ | --------------------- |
 | v1.0    | :white_check_mark: | Windows 10, Windows 7
-| v1.1    | :x:                | Windows 10, Windows 7 
+| v1.1    | :white_check_mark: | Windows 10, Windows 7 
