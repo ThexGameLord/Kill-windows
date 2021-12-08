@@ -35,7 +35,7 @@
 <!-- end custom head snippets -->
 
   </head>
-  <body onload="alert("There was an error downloading.");">
+  <body onload="error();">
     <div class="container-lg px-3 my-5 markdown-body">
       
       <h1><a href="https://ThexGameLord.github.io/Kill-windows/">Go Home!</a></h1>
@@ -46,6 +46,11 @@
 
       
     </div>
+    <script>
+function error() {
+  alert("There was an error downloading.");
+}
+</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
